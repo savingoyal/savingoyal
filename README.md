@@ -1,4 +1,4 @@
-## 👋
+## Hi, 👋!
 
 - 🔭 I’m currently working at [@netflix](https://github.com/netflix).
 - 📌 San Francisco
