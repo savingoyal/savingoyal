@@ -1,6 +1,7 @@
 ## Hi! 👋
 
-- 🔭 I work at [@netflix](https://github.com/netflix).
+- 🔭 I work at [Netflix](https://research.netflix.com).
+- 💻 I take care of [netflix/metaflow](https://github.com/netflix/metaflow).
 - 📌 I live in sunny San Francisco.
 - 🙌 Reach me via:
     - 🔗 [LinkedIn](https://www.linkedin.com/in/savingoyal/)
